@@ -1,83 +1,50 @@
-# Hi, I'm Joshua Theophilus (JT) 👋
+# Joshua Theophilus
 
-**AI-Assisted Product Manager & Developer | Group Product Manager**
+**Technical Product Manager, AI & Growth**
 
-I build products end-to-end — strategy, system design, and the code itself. 10+ years leading product and engineering across Nigerian, pan-African, and global markets, now applying that experience with an AI-native development workflow that lets me move from idea to shipped product faster than traditional team structures allow.
+Technical Product Manager based in Lagos, Nigeria, with 10+ years across product, growth, and engineering leadership, taking products from problem definition to production and measurable adoption. I work across AI product management, technical oversight and system governance, and AI workflow automation for development, testing, QA, and security.
 
-I don't just write PRDs and hand them off. I sit in Claude Code or other AI assited development tool, ship the feature, and bring the product manager's judgment into every technical decision along the way.
-
----
-
-## 🏢 Companies & Programs I've Built For
-
-**Beden Holdings (PartyJor & VIP Closet)** — Group Head of Product & Innovation. Inherited a stalled product with 9+ months of zero output and shipped a full MVP in 2–3 months. Launched PartyJor Moments in 4 weeks, driving 1,000+ signups in week one with zero paid marketing.
-
-
-**Meta** — Product Innovation & Experience Lead on Meta's WhatsApp Blueprint Programs across Sub-Saharan Africa. Led design and delivery of WhatsApp-based conversational learning platforms (Naledi & Lesedi), built for mobile-first, low-bandwidth users across Nigeria, South Africa, Kenya, and beyond. 2x Meta Certified Lead Trainer, 9x Meta Blueprint Certified.
-
-**Digify Africa** — Delivered Meta's Blueprint and WhatsApp programs in partnership with Digify Africa, supporting product experience design, content systems, and platform launches across the continent.
-
-**Ibridge Innovative Solutions (FoodBridge NG)** — Took a stalled product (11 months with no traction) to market in 5 months. Grew to 10,000+ users in year one through product-led growth alone, with no significant budget, driving 36% revenue growth through locally-calibrated monetization.
-
-**ZaharaMall Africa (Sweden)** — Led product development and go-to-market for a Sweden-based, Africa-focused e-commerce platform — vendor onboarding, multi-channel acquisition reaching 100K+ audience in 3 months, and 1,000+ pre-launch signups. Still live today.
-
-**Rentbook (Namibia)** — Product & Technical Advisor for a Namibian PropTech startup, leading product strategy, technical architecture, and African market entry.
-
-**EzzyCare** — Product & Digital Transformation Lead for a HealthTech SaaS platform, defining system workflows, platform architecture, and infrastructure to modernize healthcare delivery across African markets.
+[Website](https://www.joshuatheophilus.com) · [Portfolio](https://www.joshuatheophilus.com/portfolio) · [LinkedIn](https://linkedin.com/in/joshuatheophilus) · [ADPList](https://adplist.org/mentors/joshua-theophilus) · [Product Slice HQ](https://productslicehq.com)
 
 ---
 
-## 🛠️ How I Build
+## Selected experience
 
-**Primary Stack**
-Claude Code · VS Code · Terminal · GitHub · Vercel · Render · Supabase
+**Independent Consultant, AI Product and Technical Leadership.** EzzyCare (HealthTech): product and transformation lead for a healthcare platform, delivering a major transformation in about 4 months. RentBook Properties (PropTech): product and technical lead, restructuring product and team operations and leading AI product expansion.
 
-**Alternative Stack**
-Google AI Studio · Google Stitch · Antigravity · Firebase (Auth) · Google Cloud Console · Google Play Console
+**Beden Holdings (PartyJor and VIP Closet), Group Head of Product and Innovation.** Took over a product with 9+ months of no working output and delivered an MVP in 2 to 3 months. Launched PartyJor Moments (now DropLivo) in about 6 weeks, with 1,000+ signups in week one and no paid marketing. Cut production bugs by 70% through engineering governance, and led data handling, security, and compliance decisions for the Google Gemini integration.
 
-**Rapid Prototyping**
-Lovable · Replit
+**BOSS Global / SellMedia Group, VP, Product and Engineering.** Built and led product, design, engineering, DevOps, and data functions across multiple live platforms, and increased delivery speed by 30%.
 
-**Development**
-React · REST APIs · Webhooks · WhatsApp Business API · Database Schema Design · System Architecture · API & Platform Integration
+**Ibridge Innovative Solutions (FoodBridgeNG), Head of Product and Growth.** Rebuilt a stalled food commerce MVP and took it to market. Reached 5,000+ users in year one through product-led growth, drove 36% revenue growth, and improved execution efficiency by 80%.
 
-**Product & AI**
-0→1 Product Development · Product Strategy · LLM Integration · Multimodal AI Systems · Prompt Engineering · AI Workflow Automation · Product-Led Growth (PLG) · Growth Systems Design · Agile/Scrum (CSPO, CSM certified)
+**Africa Agility, Business Lead, Growth and Transformation.** Led the organisation's first digital product MVP through launch, drove 159% year on year program growth, and secured $100K+ in grant funding.
+
+**Digify Africa / Meta, Product Innovation and Experience Lead.** Led design and delivery of WhatsApp based conversational learning platforms (Naledi and Lesedi) for low bandwidth users across Nigeria, South Africa, and Kenya.
 
 ---
 
-## 📦 What's Here
+## AI product building projects
 
-**[claude-code-setup](https://github.com/jt247/claude-code-setup)** — My complete Claude Code environment for solo product builders: 23 MCPs, 26 skills, 11 agents configured for end-to-end product development, from research through shipped code.
+Learning projects used to test product ideas and AI workflows hands on. Case studies are on my [portfolio](https://www.joshuatheophilus.com/portfolio).
 
-**[PSHQ-2](https://github.com/jt247/PSHQ-2)** — Rebuild of Product Slice HQ, a product community I founded and run, where I share resources, run workshops, and build in public with other product people.
-
-*More repos coming as ProductVerseHQ, LockPal AI, and Referlytics development continues — this list updates as I learn and ship.*
-
----
-
-## 🚀 Hands-On, Always
-
-Beyond client and company work, I'm a builder by default. Some of what I work on in my own time:
-
-- **Product Slice HQ** — a community for product people, with resources, articles, and live build workshops (Product Lab with JT)
-- **ProductVerse** — a startup directory project from one of my free AI development training workshop, currently in beta
-- **LogPal AI** — a mobile development experiment I'm currently building
-- **Referlytics** — a venture project from my time in the Founder Institute training program
-- **AttriHub** — a free marketing tool for planning and executing campaigns end-to-end, from prototyping to launch. Picked it up as a side project to help other marketers and founders with it
-
-I'd rather have hands in the code than just hands on a roadmap. It keeps my product instincts sharp and my technical conversations with engineering teams grounded in reality.
+- **LogPal AI** (mobile): turns meetings, voice notes, and files into structured actions and reports.
+- **Resulo AI**: qualifies job opportunities and prepares tailored applications, with a human approval step before submission.
+- **[QAForge](https://github.com/jt247/qaforge)** (open source): a QA workspace where two AI coding agents run independent tests and review each other, and evidence decides the result.
+- **[Hullproof Free](https://github.com/jt247/hullproof-free)** (open source): security requirements and a pre launch gate for AI assisted builds.
+- **[claude-code-setup](https://github.com/jt247/claude-code-setup)**: my Claude Code environment for solo product builders.
 
 ---
 
-## 🎓 Mentorship & Training
+## Tools
 
-I mentor and train as much as I build. Across Meta/Digify Africa, Africa Agility, ADPList, and direct training programs, I've mentored and trained 50,000+ people across 65+ countries, including Nigeria, Canada, USA, Ireland, Portugal, and Germany.
-
-Top 1% Global Product Mentor, ADPList (2023) · Top 10% Global Product Mentor, ADPList (2024) · Top 10% Global Product Marketing Mentor, ADPList (Q1 2026)
+Claude Code, Codex, GitHub, Vercel, Supabase, n8n, Make, Zapier, Jira, Figma, Notion, Mixpanel, Amplitude, PostHog.
 
 ---
 
-## 📫 More
+## Education and recognition
 
-[joshuatheophilus.com](https://joshuatheophilus.com)
+- M.Sc. Artificial Intelligence Engineering (in progress), Quantic School of Business and Technology
+- MBA, Quantic School of Business and Technology, 2022. B.Sc. Business Education, University of Uyo, 2016
+- Certified Scrum Product Owner and Certified ScrumMaster. IBM Enterprise Design Thinking Practitioner. Anthropic AI Fluency. Google AI Essentials. Meta Blueprint (9x) and Meta Certified Lead Trainer (2x)
+- Top 1% Product Mentor on ADPList (2023). 3x Meta Awardee. Trained 50,000+ professionals across 65+ countries
