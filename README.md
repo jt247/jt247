@@ -24,7 +24,11 @@ Technical Product Manager based in Lagos, Nigeria, with 10+ years across product
 
 **Founder Institute, Founder in Training (May to Oct 2025).** Referlytics, an accelerator project: an AI driven creator intelligence and influencer marketing platform, recognised as a top performing venture in the cohort.
 
-**Digify Africa / Meta, Product Innovation and Experience Lead.** Led design and delivery of WhatsApp based conversational learning platforms (Naledi and Lesedi) for low bandwidth users across Nigeria, South Africa, and Kenya.
+**Meta Product Trainer (Product Growth and Enablement), Teleperformance for Meta (Jul 2022 to Jul 2023).** Ran product training, onboarding, education, and adoption programs across 15+ countries, including train the trainer programs and consulting for businesses.
+
+**Digify Africa, Product Manager, WhatsApp Chatbot Learning Platforms (Jan 2021 to Jul 2022).** Lead product person for Naledi and Lesedi, built with Meta teams: content workflows, creative direction, the CMS, and weekly product updates to the Meta Marketing Blueprint global team.
+
+**Meta Certified Lead Trainer (Jan 2020 to Jun 2025)** and **Digify Africa, Product Training and Enablement Lead (May 2019 to Jul 2022).** Enterprise training, consulting, and mentorship across SSA and EMEA, and a trainer network built through Train-the-Trainer systems.
 
 ---
 
@@ -42,7 +46,7 @@ Learning projects I use to test product ideas and AI workflows hands on, and to 
 
 ## Tools
 
-Claude Code, Codex, GitHub, Vercel, Supabase, n8n, Make, Zapier, Jira, Figma, Notion, Mixpanel, Amplitude, PostHog.
+Claude Code, Codex, Cursor, GitHub, Vercel, AWS, Azure, Ollama, Supabase, Node.js, React, Next.js, n8n, Make, Zapier, Jira, Figma, Notion, Sentry, Mixpanel, Amplitude, PostHog.
 
 ---
 
@@ -51,4 +55,5 @@ Claude Code, Codex, GitHub, Vercel, Supabase, n8n, Make, Zapier, Jira, Figma, No
 - M.Sc. Artificial Intelligence Engineering (in progress), Quantic School of Business and Technology
 - MBA, Quantic School of Business and Technology, 2022. B.Sc. Business Education, University of Uyo, 2016
 - Certified Scrum Product Owner and Certified ScrumMaster. IBM Enterprise Design Thinking Practitioner. Anthropic AI Fluency. Google AI Essentials. Meta Blueprint (9x) and Meta Certified Lead Trainer (2x)
-- Top 1% Product Mentor on ADPList (2023). 3x Meta Awardee. Trained 50,000+ professionals across 65+ countries
+- Top 1% Product Mentor on ADPList (2023), Top 10% (2024 and 2025). Academic Excellence Awardee and 2x Quantic Scholar. 3x Meta Awardee. Trained 50,000+ professionals across 65+ countries
+- Networks: Founder Institute, NVIDIA Inception, AWS Startup Programme, Microsoft for Startups, Google startup programme
